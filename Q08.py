@@ -27,7 +27,7 @@ def rec(LOGS):
         
 def main():
     global N
-    N = int(input())
+    N = int(input())+1
     count = rec(["0:0"])
     print(count)
 
