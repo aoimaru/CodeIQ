@@ -14,7 +14,7 @@ def rec(A, B):
             
 def main():
     # N = int(input())
-    N = 20
+    N = 10
     A = 0
     B = N
     cnt = rec(A, B)
